@@ -24,6 +24,12 @@
   color: white;
 }
 
+.Main {
+  background-color: #2d2d2d;
+  height: 200px;
+  width: 100vw;
+}
+
 .App-link {
   color: #61dafb;
 }

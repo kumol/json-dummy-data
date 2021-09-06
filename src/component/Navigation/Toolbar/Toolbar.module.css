@@ -4,7 +4,8 @@
   position: fixed;
   top: 0;
   left: 0;
-  background-color: #703b09;
+  border-bottom: 4px solid #e88c35;
+  background-color: #393939e1;
   display: flex;
   justify-content: space-between;
   align-items: center;

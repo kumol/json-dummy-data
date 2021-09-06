@@ -1,10 +1,12 @@
-import './App.css';
-
+import Layout from '../hoc/Layout/Layout';
+import classes from "./App.module.css"
 function App() {
   return (
-    <div>
-      hello world
-    </div>
+    <Layout>
+      <div className={classes.Main}>
+        hello world
+      </div>
+    </Layout>
   );
 }
 
