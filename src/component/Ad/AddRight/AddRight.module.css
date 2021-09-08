@@ -1,5 +1,6 @@
 .AddRight {
-  width: 15%;
+  width: 25%;
   background-color: red;
   height: 100vh;
+  display: flex;
 }

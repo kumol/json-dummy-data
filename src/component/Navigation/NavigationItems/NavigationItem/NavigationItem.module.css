@@ -27,6 +27,7 @@
     height: 100%;
     width: auto;
     align-items: center;
+    padding-left: 20px;
   }
 
   .NavigationItem a {
@@ -41,8 +42,9 @@
   .NavigationItem a:active,
   .NavigationItem a:hover,
   .NavigationItem a.active {
-    background-color: #8f5c2c;
-    border-bottom: 4px solid #40a4c8;
+    background-color: #d69c61;
+    border-bottom: 3px solid #eeee;
     color: white;
+    border-radius: 50px;
   }
 }

@@ -1,0 +1,10 @@
+.Footer {
+  width: 100%;
+  background-color: #dee1e4;
+  height: 65px;
+  display: flex;
+}
+
+.Paragraph {
+  margin: auto !important;
+}
